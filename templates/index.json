@@ -15,7 +15,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/earcontrol_banner.jpg",
+            "image": "shopify://shop_images/ChatGPT_Image_20_mai_2025_00_15_47.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -55,6 +55,7 @@
         "logo_aRJyqY": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Vogue-Logo.png",
             "logo_width": 120,
             "link": ""
           }
@@ -62,6 +63,7 @@
         "logo_yjEa4a": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Allure_logo_svg.png",
             "logo_width": 120,
             "link": ""
           }
@@ -69,6 +71,7 @@
         "logo_YAXD6r": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
             "logo_width": 120,
             "link": ""
           }
@@ -76,6 +79,7 @@
         "logo_8WfW97": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
             "logo_width": 120,
             "link": ""
           }
@@ -91,7 +95,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Logo list",
+        "title": "Validé par :",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -111,6 +115,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Appareil_de_nettoyage_d_oreilles_high-tech.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
