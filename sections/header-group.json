@@ -14,7 +14,7 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message": {
+        "message_JkGVWp": {
           "type": "message",
           "settings": {
             "text": "Livraison offerte",
@@ -23,10 +23,10 @@
         }
       },
       "block_order": [
-        "message"
+        "message_JkGVWp"
       ],
       "settings": {
-        "enable_sticky": false,
+        "enable_sticky": true,
         "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
