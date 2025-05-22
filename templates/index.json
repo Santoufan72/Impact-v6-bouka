@@ -20,8 +20,8 @@
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "Améliorez vos capacités auditives, et retrouvez une ouïe impeccable",
-            "heading_tag": "h2",
+            "title": "Retrouvez une ouïe impeccable, grâce à AudiPro",
+            "heading_tag": "h3",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
@@ -131,9 +131,9 @@
           "settings": {
             "image": "shopify://shop_images/ANVAND_5_97bbad38-59dd-4288-b289-21a485c4e93d.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Maxime L.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Très bon outil avec cette LED et cette caméra, j'ai pensé que je n'avais pas de cire mais ce que j'ai trouvé m'a surpris.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -142,10 +142,11 @@
         "item_LWanC3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-05-20_a_23.40.49.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Léana C.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>La commande est arrivée rapidement et en bon état. Le produit fonctionne parfaitement, il est très facile à utiliser et se connecte facilement au téléphone.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -154,10 +155,11 @@
         "item_d9hDdw": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-05-21_a_22.59.47_9234f5fe-53e7-438c-ba68-a0fed5c07d83.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Oumaima A.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Je suis choquée du résultat, c'est une amie qui m'a recommandé le produit et le résultat est juste incroyable ! Je n'ai jamais pensé que je pouvais mieux entendre en me nettoyant les oreilles.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -257,7 +259,7 @@
       ],
       "settings": {
         "full_width": true,
-        "product": "waxclean",
+        "product": "",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
