@@ -311,39 +311,39 @@
         "button_text_color": "#f2f2f2"
       }
     },
-    "blog_posts_9FK8Yr": {
-      "type": "blog-posts",
+    "media_with_text_PTfqg3": {
+      "type": "media-with-text",
       "blocks": {
-        "article_MPFiKQ": {
-          "type": "article",
+        "image_gL3jEY": {
+          "type": "image",
           "settings": {
-            "article": "",
-            "background": "",
-            "text_color": ""
+            "image": "shopify://shop_images/24_mai_2025_22_42_39.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Oubliez les coton-tiges !",
+            "content": "<p>Quoi de plus agréable qu’une bonne douche après une longue journée ? Vous attrapez votre serviette, ouvrez l’armoire de la salle de bain… et, par réflexe, vous saisissez un coton-tige pour vous nettoyer les oreilles.</p><p><strong>Stop !</strong> Ce geste, aussi familier soit-il, est en réalité <strong>mauvais pour votre santé auditive</strong>. Les spécialistes le répètent : <strong>le coton-tige fait plus de mal que de bien</strong>. Pourquoi ? Parce qu’en l’introduisant dans votre conduit auditif, vous <strong>repoussez le cérumen</strong> au lieu de l’évacuer. Résultat : il s’accumule au fond de l’oreille, pouvant former un <strong>bouchon</strong>.</p><p><strong>Il est temps d’adopter une méthode plus douce, plus précise, et validée par des professionnels de santé.</strong></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
           }
         }
       },
       "block_order": [
-        "article_MPFiKQ"
+        "image_gL3jEY"
       ],
-      "name": "Featured blog post",
+      "name": "Media with text",
       "settings": {
-        "full_width": true,
-        "show_excerpt": true,
-        "show_date": false,
-        "show_author": true,
-        "show_comments_count": false,
-        "show_category": true,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
+        "full_width": false,
+        "spacing": "small"
       }
     },
     "faq": {
@@ -431,7 +431,7 @@
     "multi_column_AHq3tY",
     "featured-product",
     "impact_text_hJm6HU",
-    "blog_posts_9FK8Yr",
+    "media_with_text_PTfqg3",
     "faq"
   ]
 }
