@@ -346,6 +346,41 @@
         "spacing": "small"
       }
     },
+    "media_with_text_8HfWV6": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_PxcnJf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_24_mai_2025_23_43_53.png",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center-end text-end",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Donnez à vos oreilles le nettoyage qu'elles méritent !",
+            "content": "<p>C’est ici qu’intervient <strong>AudiPro. Votre</strong> <strong>nettoyeur d’oreilles électronique avec caméra intégrée</strong>. Recommandé par des médecins ORL, cet appareil innovant vous permet de <strong>visualiser en temps réel l’intérieur de votre conduit auditif</strong> et de retirer en toute sécurité l’excès de cérumen, sans risque de blessure. Grâce à son embout ergonomique en forme de cuillère et à sa lumière LED, chaque geste est maîtrisé, doux et efficace.</p><p>Ce n’est pas un simple gadget, c’est <strong>une révolution dans l’hygiène auriculaire</strong>. Les utilisateurs rapportent non seulement une sensation immédiate de propreté, mais aussi une amélioration de leur confort auditif. Fini les bouchons, les grattements inutiles et les incertitudes. Avec cette technologie de pointe, vous reprenez le contrôle de votre audition, en toute simplicité.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_PxcnJf"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -432,6 +467,7 @@
     "featured-product",
     "impact_text_hJm6HU",
     "media_with_text_PTfqg3",
+    "media_with_text_8HfWV6",
     "faq"
   ]
 }
