@@ -204,12 +204,6 @@
             "show_taxes_notice": true
           }
         },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": true
-          }
-        },
         "separator": {
           "type": "separator",
           "settings": {}
@@ -244,18 +238,24 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "liquid_WgUa3L": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; align-items: center; background-color: #FAFAFA; padding: 8px 8px; border-radius: 8px; font-family: 'Poppins', sans-serif; width: fit-content; margin: 10px 0; text-align: left;\">\n  <!-- Étoiles -->\n  <img src=\"https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg\" alt=\"5 étoiles\" style=\"width: 105px; margin-right: 8px;\">\n  <!-- Texte -->\n  <div style=\"color: #4A4A4A; font-size: 12px; text-align: left;\">\n    <span style=\"font-weight: 400;\">Note</span> <span style=\"color: #000000; font-weight: 700;\">4,7</span> <span style=\"font-weight: 400;\">sur</span> <span style=\"color: #000000; font-weight: 700;\">plus de 8900 avis</span>\n  </div>\n</div>"
+          }
         }
       },
       "block_order": [
         "title",
         "badges",
         "price",
-        "rating",
         "separator",
         "description",
         "variant-picker",
         "quantity-selector",
-        "buy-buttons"
+        "buy-buttons",
+        "liquid_WgUa3L"
       ],
       "settings": {
         "full_width": true,
@@ -320,7 +320,7 @@
             "image": "shopify://shop_images/24_mai_2025_22_42_39.png",
             "media_width": 50,
             "media_position": "start",
-            "text_position": "place-self-center-start text-start",
+            "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
@@ -355,7 +355,7 @@
             "image": "shopify://shop_images/ChatGPT_Image_24_mai_2025_23_43_53.png",
             "media_width": 50,
             "media_position": "end",
-            "text_position": "place-self-center-end text-end",
+            "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
@@ -390,7 +390,7 @@
             "image": "shopify://shop_images/earcontrol_banner.jpg",
             "media_width": 50,
             "media_position": "start",
-            "text_position": "place-self-center-start text-start",
+            "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
