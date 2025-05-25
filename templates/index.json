@@ -325,7 +325,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "Oubliez les coton-tiges !",
-            "content": "<p>Quoi de plus agréable qu’une bonne douche après une longue journée ? Vous attrapez votre serviette, ouvrez l’armoire de la salle de bain… et, par réflexe, vous saisissez un coton-tige pour vous nettoyer les oreilles.</p><p><strong>Stop !</strong> Ce geste, aussi familier soit-il, est en réalité <strong>mauvais pour votre santé auditive</strong>. Les spécialistes le répètent : <strong>le coton-tige fait plus de mal que de bien</strong>. Pourquoi ? Parce qu’en l’introduisant dans votre conduit auditif, vous <strong>repoussez le cérumen</strong> au lieu de l’évacuer. Résultat : il s’accumule au fond de l’oreille, pouvant former un <strong>bouchon</strong>.</p><p><strong>Il est temps d’adopter une méthode plus douce, plus précise, et validée par des professionnels de santé.</strong></p>",
+            "content": "<p>Les spécialistes le répètent : <strong>le coton-tige fait plus de mal que de bien</strong>. Pourquoi ? Parce qu’en l’introduisant dans votre conduit auditif, vous <strong>repoussez le cérumen</strong> au lieu de l’évacuer. Résultat : il s’accumule au fond de l’oreille, pouvant former un <strong>bouchon</strong>.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -360,7 +360,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "Donnez à vos oreilles le nettoyage qu'elles méritent !",
-            "content": "<p>C’est ici qu’intervient <strong>AudiPro. Votre</strong> <strong>nettoyeur d’oreilles électronique avec caméra intégrée</strong>. Recommandé par des médecins ORL, cet appareil innovant vous permet de <strong>visualiser en temps réel l’intérieur de votre conduit auditif</strong> et de retirer en toute sécurité l’excès de cérumen, sans risque de blessure. Grâce à son embout ergonomique en forme de cuillère et à sa lumière LED, chaque geste est maîtrisé, doux et efficace.</p><p>Ce n’est pas un simple gadget, c’est <strong>une révolution dans l’hygiène auriculaire</strong>. Les utilisateurs rapportent non seulement une sensation immédiate de propreté, mais aussi une amélioration de leur confort auditif. Fini les bouchons, les grattements inutiles et les incertitudes. Avec cette technologie de pointe, vous reprenez le contrôle de votre audition, en toute simplicité.</p>",
+            "content": "<p>Recommandé par des médecins ORL, AudiPro vous permet de <strong>visualiser en temps réel l’intérieur de votre conduit auditif</strong> et de retirer en toute sécurité l’excès de cérumen, sans risque de blessure. Grâce à son <strong>embout ergonomique</strong> en forme de cuillère et à sa <strong>lumière LED</strong>, chaque geste est maîtrisé, <strong>doux et efficace</strong>.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -395,7 +395,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "AudiPro, votre nettoyant d'oreilles efficace et simple à utiliser",
-            "content": "<p><strong>Il suffit de connecter votre téléphone au Wi-Fi, d’installer l’application dédiée, et votre produit est prêt à être utilisé. Rien de plus simple, non ?</strong> En quelques secondes, vous accédez à une vue en temps réel de l’intérieur de votre oreille, pour un nettoyage précis, doux et sans risque.</p><p><strong>Recommandé par des professionnels de santé</strong>, cet appareil révolutionne l’hygiène auriculaire.<br/><br/>Prenez soin de votre audition, adoptez enfin une solution moderne, durable et validée.<br/><br/>👉 <strong>Commandez maintenant et découvrez la différence dès la première utilisation.</strong></p>",
+            "content": "<p><strong>Il suffit de connecter votre téléphone au Wi-Fi, d’installer l’application dédiée, et votre produit est prêt à être utilisé. Rien de plus simple, non ?</strong> En quelques secondes, vous accédez à une vue en temps réel de l’intérieur de votre oreille, pour un nettoyage précis, doux et sans risque.</p><p><br/>👉 <strong>Commandez maintenant et découvrez la différence dès la première utilisation.</strong></p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -414,6 +414,68 @@
       "settings": {
         "full_width": false,
         "spacing": "small"
+      }
+    },
+    "multi_column_enAe3h": {
+      "type": "multi-column",
+      "blocks": {
+        "item_9Epd8k": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Docteur_1.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_t3jynb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Docteur_2.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_dUHPkV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Docteur_3.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_9Epd8k",
+        "item_t3jynb",
+        "item_dUHPkV"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "faq": {
@@ -504,6 +566,7 @@
     "media_with_text_PTfqg3",
     "media_with_text_8HfWV6",
     "media_with_text_CtNJWp",
+    "multi_column_enAe3h",
     "faq"
   ]
 }
