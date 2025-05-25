@@ -248,7 +248,7 @@
         "liquid_JXnnVy": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"display: flex; align-items: center; gap: 12px; flex-wrap: wrap; padding: 10px 0;\">\n  <!-- Visa -->\n  <img src=\"https://upload.wikimedia.org/wikipedia/commons/4/41/Visa_Logo.png\" alt=\"Visa\" width=\"50\" height=\"30\" style=\"object-fit: contain;\">\n\n  <!-- Mastercard -->\n  <img src=\"https://upload.wikimedia.org/wikipedia/commons/0/04/Mastercard-logo.png\" alt=\"Mastercard\" width=\"50\" height=\"30\" style=\"object-fit: contain;\">\n</div>"
+            "liquid": "<div style=\"display: flex; align-items: center; gap: 12px; flex-wrap: wrap; padding: 10px 0;\">\n  <!-- Visa -->\n  <img src=\"https://upload.wikimedia.org/wikipedia/commons/4/41/Visa_Logo.png\" alt=\"Visa\" width=\"50\" height=\"30\" style=\"object-fit: contain;\">\n  <!-- Apple pay -->\n  <img src=\"https://upload.wikimedia.org/wikipedia/commons/0/04/Mastercard-logo.png\" alt=\"Mastercard\" width=\"50\" height=\"30\" style=\"object-fit: contain;\">\n</div>\n  <!-- Mastercard -->\n  <img src=\"https://cdn.shopify.com/s/files/1/0932/7673/3770/files/Apple_Pay_logo_svg.webp?v=1748202787\" alt=\"Mastercard\" width=\"50\" height=\"30\" style=\"object-fit: contain;\">\n</div>"
           }
         }
       },
