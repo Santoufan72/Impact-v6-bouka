@@ -287,6 +287,56 @@
         "input_text_color": ""
       }
     },
+    "accordion_content_FJ7UpW": {
+      "type": "accordion-content",
+      "blocks": {
+        "item_zmk89a": {
+          "type": "item",
+          "settings": {
+            "title": "UN NETTOYAGE SÛR, DOUX ET MAITRISÉ",
+            "content": "<ul><li><strong>Embout souple</strong>, <strong>caméra HD</strong> et <strong>lumière LED</strong> pour un nettoyage contrôlé, en toute sécurité.</li><li>Permet de <strong>retirer le cérumen</strong>, pas de le repousser comme un coton-tige.</li><li><strong>Inspiré du matériel médical</strong>, pour un confort auditif durable.</li></ul>"
+          }
+        },
+        "item_F3ciT8": {
+          "type": "item",
+          "settings": {
+            "title": "COMPATIBLE AVEC VOTRE SMARTPHONE",
+            "content": "<ul><li><strong>Livraison gratuite</strong> en France, rapide et suivie<strong>Retour sous 60 jours</strong> : satisfait ou remboursé, sans conditions.Un achat <strong>sans pression</strong>, pensé pour vous laisser le temps d’essayer.</li></ul>"
+          }
+        },
+        "item_VWQKec": {
+          "type": "item",
+          "settings": {
+            "title": "COMMANDEZ EN TOUTE SÉRÉNITÉ",
+            "content": "<ul><li>Fonctionne avec <strong>iOS et Android</strong> via une <strong>application gratuite</strong>.</li><li><strong>Connexion Wi-Fi locale</strong> : pas besoin d’Internet ni de Bluetooth.</li><li><strong>Image en direct de l'intérieur de l'oreille dès la première utilisation</strong></li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "item_zmk89a",
+        "item_F3ciT8",
+        "item_VWQKec"
+      ],
+      "name": "Accordion content",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "<p>  </p>",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "multi_column_enAe3h": {
       "type": "multi-column",
       "blocks": {
@@ -569,6 +619,7 @@
     "image-with-text-overlay",
     "multi_column_AHq3tY",
     "featured-product",
+    "accordion_content_FJ7UpW",
     "multi_column_enAe3h",
     "impact_text_hJm6HU",
     "media_with_text_PTfqg3",
