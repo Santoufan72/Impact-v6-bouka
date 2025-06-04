@@ -163,12 +163,40 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_JncdGN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-06-04_a_23.42.46.png",
+            "column_size": "3",
+            "title": "Anastazija R.",
+            "heading_tag": "h4",
+            "content": "<p>★★★★★</p><p>J'apprécie le délai de livraison rapide et la facilité d'utilisation ! Je pensais que ce serait un peu plus compliqué que ça, mais je suis contente que ce soit vraiment aussi simple !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_nVXQeU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_carree.png",
+            "column_size": "3",
+            "title": "Clément D.",
+            "heading_tag": "h4",
+            "content": "<p>★★★★★</p><p>Je suis souvent sceptique à l'égard de ce genre de produits car ils ont tendance à être assez mauvais, mais celui-ci était vraiment efficace ! </p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_RxaRgz",
         "item_LWanC3",
-        "item_d9hDdw"
+        "item_d9hDdw",
+        "item_JncdGN",
+        "item_nVXQeU"
       ],
       "settings": {
         "full_width": true,
@@ -335,6 +363,48 @@
         "button_text_color": "",
         "accordion_background": "",
         "accordion_text_color": ""
+      }
+    },
+    "image_with_text_overlay_HfqMXX": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_x98Fia": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_6xVjVF": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_HigwKL": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_x98Fia",
+        "heading_6xVjVF",
+        "richtext_HigwKL"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_5_juin_2025_00_10_19.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "multi_column_enAe3h": {
@@ -620,6 +690,7 @@
     "multi_column_AHq3tY",
     "featured-product",
     "accordion_content_FJ7UpW",
+    "image_with_text_overlay_HfqMXX",
     "multi_column_enAe3h",
     "impact_text_hJm6HU",
     "media_with_text_PTfqg3",
