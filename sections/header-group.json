@@ -40,6 +40,7 @@
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": false,
+        "logo": "shopify://shop_images/Logo_AudiPro_7142b018-1aed-49c8-ab26-a073ab6d2e48.png",
         "logo_max_width": 120,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
