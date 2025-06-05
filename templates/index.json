@@ -266,15 +266,10 @@
             "liquid": "<style>\n  .stock-container {\n    display: inline-flex;\n    align-items: center;\n    font-size: 10px;\n    color: #dc2626;\n    font-weight: bold;\n  }\n\n  .stock-circle {\n    width: 12px;\n    height: 12px;\n    border-radius: 50%;\n    margin-right: 8px;\n    background-color: red;\n    /* Ajout d'une lueur autour du cercle */\n    box-shadow: 0 0 6px rgba(242, 180, 0, 0.8);\n  }\n</style>\n\n<div class=\"stock-container\">\n  <span class=\"stock-circle\"></span>\n  <span>Stock limité : ajoutez vite ce produit avant qu’il ne soit épuisé.</span>\n</div>"
           }
         },
-        "buy_buttons_TzJYRz": {
-          "type": "buy_buttons",
+        "kaching_bundles_app_block_6qmEFj": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "#00a341",
-            "payment_button_text_color": "#ffffff"
+            "product": "{{section.settings.product}}"
           }
         },
         "liquid_JXnnVy": {
@@ -294,7 +289,7 @@
         "variant-picker",
         "quantity-selector",
         "liquid_3Mjrkh",
-        "buy_buttons_TzJYRz",
+        "kaching_bundles_app_block_6qmEFj",
         "liquid_JXnnVy"
       ],
       "settings": {
