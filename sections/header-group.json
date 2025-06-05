@@ -17,13 +17,21 @@
         "message_JkGVWp": {
           "type": "message",
           "settings": {
+            "text": "33% de remise",
+            "url": ""
+          }
+        },
+        "message_KmjHbj": {
+          "type": "message",
+          "settings": {
             "text": "Livraison offerte",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message_JkGVWp"
+        "message_JkGVWp",
+        "message_KmjHbj"
       ],
       "settings": {
         "enable_sticky": true,
