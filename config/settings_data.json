@@ -44,7 +44,7 @@
     "cart_icon": "shopping_cart",
     "cart_show_free_shipping_threshold": true,
     "cart_free_shipping_threshold": 0,
-    "social_facebook": "https://www.facebook.com",
+    "social_facebook": "https://www.facebook.com/profile.php?id=61577381901327",
     "social_instagram": "https://www.instagram.com",
     "favicon": "shopify://shop_images/Logo_AudiPro_7142b018-1aed-49c8-ab26-a073ab6d2e48.png",
     "checkout_accent_color": "#f0c417",
@@ -53,7 +53,7 @@
     "blocks": {
       "15557474716127144420": {
         "type": "shopify://apps/kaching-bundles/blocks/app-embed-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-        "disabled": false,
+        "disabled": true,
         "settings": {}
       }
     }

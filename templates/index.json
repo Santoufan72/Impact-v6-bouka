@@ -277,6 +277,18 @@
             "payment_button_text_color": ""
           }
         },
+        "button_aax9Ar": {
+          "type": "button",
+          "settings": {
+            "link": "shopify://products/audipro-nettoyant-doreilles-avec-camera-hd-integree",
+            "text": "Button",
+            "size": "xl",
+            "style": "fill",
+            "stretch": true,
+            "background": "",
+            "text_color": ""
+          }
+        },
         "liquid_JXnnVy": {
           "type": "liquid",
           "settings": {
@@ -295,6 +307,7 @@
         "quantity-selector",
         "liquid_3Mjrkh",
         "buy_buttons_zFmxXy",
+        "button_aax9Ar",
         "liquid_JXnnVy"
       ],
       "settings": {
