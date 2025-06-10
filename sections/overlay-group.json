@@ -13,11 +13,12 @@
   "sections": {
     "newsletter-popup": {
       "type": "newsletter-popup",
+      "disabled": true,
       "settings": {
         "apparition_delay": 5,
         "show_only_on_index": false,
         "show_only_for_visitors": true,
-        "show_only_once": false,
+        "show_only_once": true,
         "title": "Inscrivez vous à notre newsletter",
         "button_text": "Je m'inscris",
         "subtext": "Connectez-vous pour obtenir des avantages exclusifs"
