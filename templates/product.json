@@ -65,17 +65,6 @@
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "#f0c417",
-            "atc_button_text_color": "",
-            "payment_button_background": "#00a341",
-            "payment_button_text_color": ""
-          }
         }
       },
       "block_order": [
@@ -88,8 +77,7 @@
         "separator",
         "description",
         "variant_picker",
-        "quantity_selector",
-        "buy_buttons"
+        "quantity_selector"
       ],
       "settings": {
         "full_width": true,
