@@ -17,7 +17,7 @@
         "message_JkGVWp": {
           "type": "message",
           "settings": {
-            "text": "PROMO FLASH",
+            "text": "50% de remise",
             "url": ""
           }
         },
@@ -48,6 +48,7 @@
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": false,
+        "logo": "shopify://shop_images/Black_and_Beige_Minimalist_Aesthetic_Modern_Simple_Typography_Agency_Logo.png",
         "logo_max_width": 160,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
