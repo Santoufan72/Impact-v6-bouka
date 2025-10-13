@@ -24,7 +24,7 @@
         "message_KmjHbj": {
           "type": "message",
           "settings": {
-            "text": "BLACK FRIDAY",
+            "text": "Offre spéciale Halloween !",
             "url": ""
           }
         }
@@ -48,9 +48,9 @@
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Black_and_Beige_Minimalist_Aesthetic_Modern_Simple_Typography_Agency_Logo.png",
-        "logo_max_width": 160,
-        "logo_mobile_max_width": 100,
+        "logo": "shopify://shop_images/Logo_BrickBear.png",
+        "logo_max_width": 115,
+        "logo_mobile_max_width": 80,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",

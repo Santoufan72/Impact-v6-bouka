@@ -15,12 +15,12 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_20_mai_2025_00_15_47.png",
+            "image": "shopify://shop_images/Photo_de_couverture.png",
             "content_max_width": 720,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "Retrouvez une ouïe impeccable, grâce à AudiPro",
+            "title": "Là où la magie se construit",
             "heading_tag": "h4",
             "button_text": "",
             "button_link": "",
@@ -55,7 +55,7 @@
         "logo_aRJyqY": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Vogue-Logo.png",
+            "logo": "shopify://shop_images/Photo_site_-_Logo_joueclub.png",
             "logo_width": 120,
             "link": ""
           }
@@ -63,7 +63,7 @@
         "logo_yjEa4a": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Allure_logo_svg.png",
+            "logo": "shopify://shop_images/Photo_site_-_Logo_lego.png",
             "logo_width": 120,
             "link": ""
           }
@@ -71,7 +71,7 @@
         "logo_YAXD6r": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
+            "logo": "shopify://shop_images/Photo_site_-_Logo_marie_claire.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -79,7 +79,7 @@
         "logo_8WfW97": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "logo": "shopify://shop_images/Photo_site_-_Logo_kingjouet.png",
             "logo_width": 120,
             "link": ""
           }
@@ -114,7 +114,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Images_benefices_vWHITE.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -128,7 +127,6 @@
         "item_RxaRgz": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ANVAND_5_97bbad38-59dd-4288-b289-21a485c4e93d.png",
             "column_size": "3",
             "title": "Maxime L.",
             "heading_tag": "h4",
@@ -141,7 +139,6 @@
         "item_LWanC3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-05-20_a_23.40.49.png",
             "column_size": "3",
             "title": "Léana C.",
             "heading_tag": "h4",
@@ -154,7 +151,6 @@
         "item_d9hDdw": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-05-24_a_22.18.57.png",
             "column_size": "3",
             "title": "Virginie A.",
             "heading_tag": "h4",
@@ -167,7 +163,6 @@
         "item_JncdGN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-06-04_a_23.42.46.png",
             "column_size": "3",
             "title": "Anastazija R.",
             "heading_tag": "h4",
@@ -180,7 +175,6 @@
         "item_nVXQeU": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image_carree.png",
             "column_size": "3",
             "title": "Clément D.",
             "heading_tag": "h4",
@@ -266,12 +260,6 @@
             "liquid": "<style>\n  .stock-container {\n    display: inline-flex;\n    align-items: center;\n    font-size: 10px;\n    color: #dc2626;\n    font-weight: bold;\n  }\n\n  .stock-circle {\n    width: 12px;\n    height: 12px;\n    border-radius: 50%;\n    margin-right: 8px;\n    background-color: red;\n    /* Ajout d'une lueur autour du cercle */\n    box-shadow: 0 0 6px rgba(242, 180, 0, 0.8);\n  }\n</style>\n\n<div class=\"stock-container\">\n  <span class=\"stock-circle\"></span>\n  <span>Stock limité : ajoutez vite ce produit avant qu’il ne soit épuisé.</span>\n</div>"
           }
         },
-        "kaching_bundles_app_block_KTd7zw": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "buy_buttons_LWi9jj": {
           "type": "buy_buttons",
           "settings": {
@@ -300,7 +288,6 @@
         "variant-picker",
         "quantity-selector",
         "liquid_3Mjrkh",
-        "kaching_bundles_app_block_KTd7zw",
         "buy_buttons_LWi9jj",
         "liquid_JXnnVy"
       ],
@@ -406,7 +393,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_5_juin_2025_00_10_19.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -420,7 +406,6 @@
         "item_9Epd8k": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Docteur_1.jpg",
             "column_size": "3",
             "title": "Jerôme Buisson",
             "heading_tag": "h4",
@@ -433,7 +418,6 @@
         "item_t3jynb": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Docteur_2.jpg",
             "column_size": "3",
             "title": "Shannon Klingman",
             "heading_tag": "h4",
@@ -446,7 +430,6 @@
         "item_dUHPkV": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Docteur_3.jpg",
             "column_size": "3",
             "title": "Miguel Santos",
             "heading_tag": "h4",
@@ -516,7 +499,6 @@
         "image_gL3jEY": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/24_mai_2025_22_42_39.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -550,7 +532,6 @@
         "image_PxcnJf": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_24_mai_2025_23_43_53.png",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
@@ -584,7 +565,6 @@
         "image_9fheC3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/earcontrol_banner.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -614,17 +594,6 @@
     },
     "17495927165ed14ddb": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_featured_carousel_yjNRn8": {
-          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_featured_carousel_yjNRn8"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -698,7 +667,6 @@
         "subheading": "",
         "title": "FAQ",
         "content": "",
-        "team_avatar": "shopify://shop_images/Black_and_Beige_Minimalist_Aesthetic_Modern_Simple_Typography_Agency_Logo.png",
         "team_avatar_width": 250,
         "support_hours": "Notre service après vente est disponible 7/7j de 9h à 18h",
         "answer_time": "Réponse en moins de 24h",
