@@ -9879,8 +9879,8 @@ split-lines {
   display: -webkit-box;
   overflow: hidden;
 }
-/* NOUVEAU CIBLAGE : Ciblage de la phrase text-custom DANS le conteneur 'place-self-center' */
-.place-self-center .text-custom { 
+/* NOUVEAU CIBLAGE 3 : Ciblage de l'élément 'p' contenant le texte, dans la zone .text-custom */
+.text-custom p { 
   font-family: 'Great Vibes', cursive !important;
   font-style: italic !important; 
   font-size: 2.5em !important; 
