@@ -9879,8 +9879,18 @@ split-lines {
   display: -webkit-box;
   overflow: hidden;
 }
-/* NOUVEAU CIBLAGE 3 : Ciblage de l'élément 'p' contenant le texte, dans la zone .text-custom */
-.text-custom p { 
+/* NOUVEAU CIBLAGE 4 : Cible la bannière principale par son ID de section standard (si votre thème suit cette convention) */
+/* L'ID #shopify-section-sections__slideshow est souvent utilisé pour la première section de bannière */
+#shopify-section-sections__slideshow .text-custom p { 
+  font-family: 'Great Vibes', cursive !important;
+  font-style: italic !important; 
+  font-size: 2.5em !important; 
+  color: #FFFFFF !important;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); 
+}
+
+/* OU, si l'ID ci-dessus ne marche pas, essayez avec la classe de la section (moins spécifique, mais fréquent) */
+.section-slideshow .text-custom p { 
   font-family: 'Great Vibes', cursive !important;
   font-style: italic !important; 
   font-size: 2.5em !important; 
