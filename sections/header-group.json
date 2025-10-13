@@ -34,11 +34,11 @@
         "message_KmjHbj"
       ],
       "settings": {
-        "enable_sticky": true,
+        "enable_sticky": false,
         "text_size": "text-base",
-        "navigation_mode": "scrolling",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
-        "background": "#5bacb9",
+        "background": "#1a1a1a",
         "background_gradient": "",
         "text_color": "#ffffff"
       }

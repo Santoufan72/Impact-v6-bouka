@@ -56,7 +56,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Photo_site_-_Logo_joueclub.png",
-            "logo_width": 120,
+            "logo_width": 200,
             "link": ""
           }
         },
@@ -64,7 +64,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Photo_site_-_Logo_lego.png",
-            "logo_width": 120,
+            "logo_width": 200,
             "link": ""
           }
         },
@@ -72,7 +72,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Photo_site_-_Logo_marie_claire.webp",
-            "logo_width": 120,
+            "logo_width": 200,
             "link": ""
           }
         },
@@ -80,7 +80,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Photo_site_-_Logo_kingjouet.png",
-            "logo_width": 120,
+            "logo_width": 200,
             "link": ""
           }
         }
