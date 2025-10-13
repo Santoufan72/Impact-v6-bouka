@@ -9878,3 +9878,20 @@ split-lines {
   display: -webkit-box;
   overflow: hidden;
 }
+/* ÉTAPE 1 : Importation de la police "féerique" (exemple : 'Great Vibes') */
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+/* ÉTAPE 2 : Ciblage spécifique de la phrase "Là où la magie se construit" */
+.text-custom {
+  /* Application de la police (vous pouvez remplacer 'Great Vibes' par votre choix) */
+  font-family: 'Great Vibes', cursive !important;
+  
+  /* Mise en italique */
+  font-style: italic !important; 
+  
+  /* Optionnel : ajustement de la taille pour qu'elle soit bien visible (la taille par défaut est 1em) */
+  font-size: 2.5em !important; 
+  
+  /* Optionnel : Ajout d'une ombre pour qu'elle ressorte sur l'image */
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); 
+}
