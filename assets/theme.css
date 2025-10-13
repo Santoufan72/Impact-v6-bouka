@@ -9879,11 +9879,11 @@ split-lines {
   display: -webkit-box;
   overflow: hidden;
 }
-/* Ciblage TRES spécifique de la phrase "Là où la magie se construit" (dans le carrousel) */
-.slideshow-carousel .text-custom { 
+/* NOUVEAU CIBLAGE : Ciblage de la phrase text-custom DANS le conteneur 'place-self-center' */
+.place-self-center .text-custom { 
   font-family: 'Great Vibes', cursive !important;
   font-style: italic !important; 
   font-size: 2.5em !important; 
-  color: #FFFFFF !important; /* Ajout d'une couleur explicite (blanc) pour être sûr */
+  color: #FFFFFF !important;
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); 
 }
