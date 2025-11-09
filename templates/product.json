@@ -18,8 +18,9 @@
         },
         "title": {
           "type": "title",
+          "name": "Hématite noire - Bracelet magnétique ",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h3"
           }
         },
         "badges": {
