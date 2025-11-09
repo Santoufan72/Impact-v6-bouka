@@ -15,12 +15,12 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_14_oct._2025_00_07_41.png",
+            "image": "shopify://shop_images/hematite_noire_1_1e2c62f7-f5f8-4147-823f-6c74401cc0d6.png",
             "content_max_width": 720,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "Là où la magie se construit",
+            "title": "Forgé dans le combat, porté avec détermination",
             "heading_tag": "h4",
             "button_text": "",
             "button_link": "",
@@ -55,7 +55,7 @@
         "logo_aRJyqY": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Photo_site_-_Logo_joueclub.png",
+            "logo": "shopify://shop_images/Forbes.png",
             "logo_width": 200,
             "link": ""
           }
@@ -63,7 +63,7 @@
         "logo_yjEa4a": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Photo_site_-_Logo_lego.png",
+            "logo": "shopify://shop_images/MensHealth_25c5ee23-79c8-4024-bdea-7ebd3003c9c8.jpg",
             "logo_width": 200,
             "link": ""
           }
@@ -71,7 +71,7 @@
         "logo_YAXD6r": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Photo_site_-_Logo_marie_claire.webp",
+            "logo": "shopify://shop_images/GQLogo.png",
             "logo_width": 200,
             "link": ""
           }
@@ -79,7 +79,7 @@
         "logo_8WfW97": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Photo_site_-_Logo_kingjouet.png",
+            "logo": "shopify://shop_images/the-guardian-new-logo-png_seeklogo-326255_e525c421-7540-4eb6-961e-efb96d716e23.png",
             "logo_width": 200,
             "link": ""
           }
@@ -130,7 +130,7 @@
             "column_size": "3",
             "title": "Maxime L.",
             "heading_tag": "h4",
-            "content": "<p>★★★★★</p><p>Je suis choqué du résultat, c'est un ami qui m'a recommandé le produit et le résultat est juste incroyable ! Je n'ai jamais pensé que je pouvais mieux entendre en me nettoyant les oreilles.</p>",
+            "content": "<p>★★★★★</p><p></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -293,7 +293,7 @@
       ],
       "settings": {
         "full_width": true,
-        "product": "audipro-nettoyant-doreilles-avec-camera-hd-integree",
+        "product": "bracelet-magnetique-pierre-rare",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "contained",
@@ -499,6 +499,7 @@
         "image_gL3jEY": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/hematite_noire_4.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -532,6 +533,7 @@
         "image_PxcnJf": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/hematite_noire_1.png",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
@@ -565,6 +567,7 @@
         "image_9fheC3": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/hematite_noire.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",

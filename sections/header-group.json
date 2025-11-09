@@ -17,8 +17,8 @@
         "message_JkGVWp": {
           "type": "message",
           "settings": {
-            "text": "50% de remise",
-            "url": ""
+            "text": "40% de remise - BLACK NOVEMBER SALE",
+            "url": "shopify://products/coup-de-coeur"
           }
         },
         "message_KmjHbj": {
@@ -48,7 +48,6 @@
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Logo_BrickBear.png",
         "logo_max_width": 115,
         "logo_mobile_max_width": 80,
         "menu": "main-menu",
