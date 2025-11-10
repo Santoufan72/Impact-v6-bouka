@@ -315,22 +315,22 @@
         "item_zmk89a": {
           "type": "item",
           "settings": {
-            "title": "UN NETTOYAGE SÛR, DOUX ET MAITRISÉ",
-            "content": "<p><strong>Embout souple</strong>, <strong>caméra HD</strong> et <strong>lumière LED</strong> pour un nettoyage contrôlé, en toute sécurité.</p><p>Permet de <strong>retirer le cérumen</strong>, pas de le repousser comme un coton-tige.</p><p>Inspiré du <strong>matériel médical</strong>, pour un confort auditif durable.</p>"
+            "title": "UNE ÉNERGIE MAÎTRISÉE, UN CONFORT DURABLE",
+            "content": "<p>Maillons polis, finition haut de gamme et technologie magnétique intégrée : le bracelet IROS stimule votre équilibre naturel tout en offrant un confort optimal au poignet. Inspiré des principes de la magnétothérapie, il agit sans effort pour renforcer votre vitalité, réduire les tensions et accompagner vos journées avec élégance</p>"
           }
         },
         "item_F3ciT8": {
           "type": "item",
           "settings": {
-            "title": "COMPATIBLE AVEC VOTRE SMARTPHONE",
-            "content": "<p><strong>Livraison gratuite</strong> en France, rapide et suivie.</p><p><strong>Retour sous 60 jours</strong> : satisfait ou remboursé, sans conditions.</p><p>Un achat <strong>sans pression</strong>, pensé pour vous laisser le temps d’essayer.</p>"
+            "title": "COMPATIBLE AVEC VOTRE STYLE DE VIE",
+            "content": "<ul><li>Livraison gratuite en France, rapide et suivie.</li></ul><p></p><ul><li>Retour sous 60 jours : satisfait ou remboursé, sans conditions.</li></ul><p></p><ul><li>Un achat sans pression, pensé pour vous laisser le temps d’essayer et ressentir les effets.</li></ul>"
           }
         },
         "item_VWQKec": {
           "type": "item",
           "settings": {
             "title": "COMMANDEZ EN TOUTE SÉRÉNITÉ",
-            "content": "<p>Fonctionne avec <strong>iOS et Android</strong> via une <strong>application gratuite</strong>.</p><p>Connexion <strong>Wi-Fi locale</strong> : pas besoin d’Internet ni de Bluetooth.</p><p><strong>Image en direct </strong>de l'intérieur de l'oreille dès la première utilisation</p>"
+            "content": "<ul><li>Conçu pour s’adapter à toutes les morphologies, le bracelet IROS se porte facilement, sans réglage complexe.</li></ul><p></p><ul><li>Son design discret et puissant vous accompagne au quotidien — au bureau, en séance de sport ou en soirée.</li></ul><p></p><ul><li>Un accessoire utile, stylé et chargé de sens.</li></ul>"
           }
         }
       },
@@ -407,9 +407,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Jerôme Buisson",
+            "title": "Julien Muisson",
             "heading_tag": "h4",
-            "content": "<p><em>\"Ce cure-oreille en silicone retire délicatement le cérumen sans l’enfoncer. Son embout souple et doux permet un nettoyage efficace et sans risque.\"</em></p><p>ORL - Hôpital de la Miséricorde - Ajaccio, France</p>",
+            "content": "<p><em>“Ce bracelet magnétique m’a surpris par son efficacité. Je le porte tous les jours, et je ressens une vraie différence dans mon énergie et ma concentration.”</em> — <strong>Julien M., coach sportif – Lyon, </strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -419,9 +419,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Shannon Klingman",
+            "title": "Nadia Rlingman",
             "heading_tag": "h4",
-            "content": "<p><em>\"Ce que j’apprécie avec le nettoyeur AudiPro, c’est son embout en silicone qui permet un nettoyage sûr et maîtrisé. Une solution simple, efficace et sans danger pour le conduit auditif.\"</em></p><p>ORL - Hôpital Princesse Royale - Haywards Heath, Royaume-Uni</p>",
+            "content": "<p><em>“Sobre, élégant, et vraiment agréable à porter. Je le recommande à tous ceux qui cherchent un accessoire utile et stylé.”</em> — <strong>Nadia R., naturopathe – Genève, Suisse</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -506,8 +506,8 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Oubliez les coton-tiges !",
-            "content": "<p>Les spécialistes le répètent : <strong>le coton-tige fait plus de mal que de bien</strong>. Pourquoi ? Parce qu’en l’introduisant dans votre conduit auditif, vous <strong>repoussez le cérumen</strong> au lieu de l’évacuer. Résultat : il s’accumule au fond de l’oreille, pouvant former un <strong>bouchon</strong>.</p>",
+            "title": "Oubliez les gadgets inutiles.",
+            "content": "<p>Les spécialistes le confirment : les aimants bien positionnés peuvent contribuer à améliorer le confort articulaire et la sensation de vitalité. Pourquoi ? Parce qu’ils agissent sur les flux énergétiques du corps, favorisant un meilleur équilibre et une sensation de bien-être durable.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -540,8 +540,8 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Donnez à vos oreilles le nettoyage qu'elles méritent !",
-            "content": "<p>Recommandé par des médecins ORL, AudiPro vous permet de <strong>visualiser en temps réel l’intérieur de votre conduit auditif</strong> et de retirer en toute sécurité l’excès de cérumen, sans risque de blessure. Grâce à son <strong>embout ergonomique</strong> en forme de cuillère et à sa <strong>lumière LED</strong>, chaque geste est maîtrisé, <strong>doux et efficace</strong>.</p>",
+            "title": "Donnez à votre corps l’énergie qu’il mérite.",
+            "content": "<p>Recommandé par des professionnels du bien-être, IROS agit en profondeur pour favoriser la circulation, réduire les tensions et renforcer votre énergie naturelle. Son design minimaliste et ses propriétés magnétiques en font un allié discret mais efficace, aussi bien en tenue décontractée qu’en costume.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -574,8 +574,8 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "AudiPro, votre nettoyant d'oreilles efficace et simple à utiliser",
-            "content": "<p><strong>Il suffit de connecter votre téléphone au Wi-Fi, d’installer l’application dédiée, et votre produit est prêt à être utilisé. Rien de plus simple, non ?</strong> En quelques secondes, vous accédez à une vue en temps réel de l’intérieur de votre oreille, pour un nettoyage précis, doux et sans risque.</p><p><br/>👉 <strong>Commandez maintenant et découvrez la différence dès la première utilisation.</strong></p>",
+            "title": "IROS, votre bracelet magnétique puissant et élégant.",
+            "content": "<p>Il suffit de le glisser à votre poignet, et vous ressentez immédiatement sa présence : légère, discrète, mais chargée de puissance. Grâce à ses maillons en hématite noire et à son design ergonomique, le bracelet IROS s’adapte à toutes les morphologies et à tous les styles.</p><p>👉 Commandez maintenant et sentez la différence dès les premières heures.<br/><br/></p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -617,43 +617,43 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Comment utiliser AudiPro ?",
-            "content": "<p>AudiPro est conçu pour être simple et intuitif. Il vous suffit de le connecter à votre smartphone via l’application dédiée, d’allumer la caméra, puis de suivre en temps réel les images diffusées à l’écran. Une lumière LED intégrée permet une visibilité optimale. En quelques minutes, vous pouvez nettoyer vos oreilles de manière précise et sécurisée. Un guide d’utilisation illustré est fourni, et notre service client est disponible pour vous accompagner si besoin.</p>"
+            "title": "Comment utiliser le bracelet IROS ?",
+            "content": "<p>Il suffit de le porter au poignet. Les aimants intégrés agissent en continu pour stimuler les flux énergétiques du corps. Aucun réglage, aucune contrainte : juste un confort immédiat et une élégance naturelle.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que le produit est risqué pour les oreilles ?",
-            "content": "<p>Chez AudiPro, la sécurité passe avant tout. C’est pourquoi notre appareil est <strong>recommandé par des professionnels de santé</strong> pour un usage domestique, en complément d’une bonne hygiène auriculaire. Il est équipé d’embouts souples en silicone médical, conçus pour respecter la sensibilité du conduit auditif, et permet un nettoyage <strong>visuel, précis et non invasif</strong> grâce à sa caméra HD. Contrairement aux coton-tiges, qui peuvent tasser le cérumen, cet appareil permet une extraction contrôlée, réduisant les risques de blessures. Bien sûr, en cas de pathologie ORL connue, l’avis de votre médecin reste essentiel.</p>"
+            "title": "Est-ce que le bracelet est risqué pour la santé ?",
+            "content": "<p>Non. Le bracelet IROS est conçu pour un usage quotidien, en complément d’un mode de vie actif et équilibré. Il ne remplace pas un traitement médical, mais il peut contribuer à améliorer la sensation de bien-être. En cas de pathologie connue, demandez conseil à votre professionnel de santé.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
             "title": "Est-ce que le produit est vraiment efficace ?",
-            "content": "<p>Grâce à sa caméra haute définition et sa lumière LED intégrée, AudiPro permet un nettoyage précis, en temps réel. Les utilisateurs rapportent une sensation immédiate de propreté et apprécient de pouvoir visualiser le résultat. Il s’agit d’un outil bien plus performant que les méthodes classiques, car il allie technologie et ergonomie pour garantir une efficacité visible.</p>"
+            "content": "<p>De nombreux utilisateurs rapportent une amélioration de leur énergie, une réduction des tensions et une sensation de confort durable. L’effet magnétique est subtil mais constant, et son design élégant en fait un compagnon idéal au quotidien.</p>"
           }
         },
         "item_NnpQGX": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que l'appareil fonctionne avec mon téléphone ?",
-            "content": "<p>Oui. Notre application est compatible avec <strong>tous les smartphones récents</strong>, qu’ils fonctionnent sous <strong>Android ou iOS (iPhone)</strong>. Il suffit de télécharger l’application via le Play Store ou l’App Store, de connecter l’appareil en Wi-Fi local, et vous pouvez l’utiliser immédiatement, sans configuration complexe. Une compatibilité universelle pour une utilisation sans souci.</p>"
+            "title": "Est-ce que le bracelet convient à tous les poignets ?",
+            "content": "<p>Oui. Le bracelet IROS est conçu avec une bande élastique discrète ou des tailles ajustées selon les modèles. Il s’adapte à toutes les morphologies, sans gêne ni pression.</p>"
           }
         },
         "item_cbUdPp": {
           "type": "item",
           "settings": {
             "title": "Est ce que le produit est garanti ?",
-            "content": "<p>Oui, vous bénéficiez d’une <strong>garantie 100 % satisfait ou remboursé pendant 90 jours</strong>. Essayez l’appareil chez vous, et si vous n’êtes pas entièrement convaincu, nous vous remboursons sans discussion. De plus, il est couvert par une <strong>garantie constructeur de 12 mois</strong> en cas de défaut.</p>"
+            "content": "<p>Oui. Vous bénéficiez d’une garantie 100 % satisfait ou remboursé pendant 90 jours. Essayez-le chez vous, et si vous n’êtes pas convaincu, nous vous remboursons sans discussion. De plus, le bracelet est couvert par une garantie constructeur de 12 mois.</p>"
           }
         },
         "item_mByjy8": {
           "type": "item",
           "settings": {
             "title": "Quels sont les délais de livraison ?",
-            "content": "<p>Nous proposons une livraison rapide et suivie. Les délais moyens sont de <strong>5 à 10 jours ouvrés</strong>, selon votre lieu de résidence.</p>"
+            "content": "<p>La livraison est rapide et suivie. Comptez entre 5 et 10 jours ouvrés selon votre lieu de résidence. Vous recevrez un numéro de suivi dès l’expédition.</p>"
           }
         }
       },
