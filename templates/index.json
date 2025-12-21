@@ -128,6 +128,7 @@
         "item_RxaRgz": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/images.jpg",
             "column_size": "3",
             "title": "Maxime L.",
             "heading_tag": "h4",
@@ -140,6 +141,7 @@
         "item_LWanC3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/bedc5d1f0739297d553bc4c1cf9b4a8a5e84e64cd1aa0d7f7a95e3b8be9e9549.webp",
             "column_size": "3",
             "title": "Léana C.",
             "heading_tag": "h4",
@@ -152,6 +154,7 @@
         "item_d9hDdw": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/telechargement.jpg",
             "column_size": "3",
             "title": "Virginie A.",
             "heading_tag": "h4",
@@ -164,6 +167,7 @@
         "item_JncdGN": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/images_2.jpg",
             "column_size": "3",
             "title": "Anastazija R.",
             "heading_tag": "h4",
@@ -176,6 +180,7 @@
         "item_nVXQeU": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/credits-say-who-marilu-parisi-400x.jpg",
             "column_size": "3",
             "title": "Clément D.",
             "heading_tag": "h4",
@@ -196,7 +201,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "gap": "medium",
+        "gap": "small",
         "text_alignment": "start",
         "subheading": "",
         "title": "",
@@ -408,6 +413,7 @@
         "item_9Epd8k": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Manisol.jpg",
             "column_size": "3",
             "title": "Julien Muisson",
             "heading_tag": "h4",
@@ -420,6 +426,7 @@
         "item_t3jynb": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Nadia-Idle-HowTheLightGetsIn-Hay-Festival-2024.jpg",
             "column_size": "3",
             "title": "Nadia Rlingman",
             "heading_tag": "h4",
@@ -432,10 +439,11 @@
         "item_dUHPkV": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-12-21_160211.png",
             "column_size": "3",
             "title": "Miguel Santos",
             "heading_tag": "h4",
-            "content": "<p><em>\"Conçu pour les personnes sujettes aux bouchons de cérumen, cet appareil utilise un embout en silicone souple pour un retrait efficace, sans irritation ni risque pour le conduit auditif.\"</em></p><p>ORL - Hôpital Comarcal de Inca - Inca, Espagne</p>",
+            "content": "<p><em>\"Exactement ce que je cherchais pour un style sobre et authentique. Un indispensable pour allier praticité et élégance au quotidien.\"</em><strong> — Sophie M., designer – Bruxelles, Belgique</strong><br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
